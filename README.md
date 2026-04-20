@@ -22,5 +22,3 @@ A simple and interactive **Web Development Quiz Application** built using **HTML
 - **JavaScript (Vanilla JS)** – Quiz logic and interactivity  
 
 ---
-
-## 📁 Project Structure
